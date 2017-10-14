@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 '''
 numpy を利用して各値を求める
 '''
+=======
+
+>>>>>>> 489226c3b03b009cb6ceef847d9e10fd0e077286
 import numpy as np
 import math
 
