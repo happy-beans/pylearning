@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+'''
+numpy を利用して各値を求める
+'''
 import numpy as np
 import math
 
